@@ -1,11 +1,32 @@
-# Speech to Text App 🎙️📝
+# 🎙️ Speech-to-Text App
 
-This project converts audio files into text using AI-powered transcription.
+A lightweight React app that converts speech into text in real time using your browser’s speech recognition.
 
-## Tech Used
-- Spring Boot (Backend)
-- Angular (Frontend)
-- Whisper API
+## 🔧 Built With
 
-## Note
-This project is part of my learning journey using online tutorials. I’ve implemented and explored the code to understand real-world application structure and AI integration.
+- React.js  
+- Web Speech API
+
+## 🚀 How to Use
+
+1. Clone this repo  
+   `git clone https://github.com/TanujaPansare1/speech-to-text-app.git`
+
+2. Install dependencies  
+   `npm install`
+
+3. Run the app  
+   `npm start`
+
+> Open in Chrome for best results. Allow mic access when prompted.
+
+## 📌 Features
+
+- Real-time speech transcription  
+- One-click start/stop  
+- Clean, distraction-free UI
+
+## ✨ Author
+
+Tanuja Pansare  
+[GitHub](https://github.com/TanujaPansare1)
